@@ -1,5 +1,5 @@
 #!/bin/bash -xve
-#Written by S.shige
+#Written by S. Shige
 
 exec 2> /tmp/setup.log
 
